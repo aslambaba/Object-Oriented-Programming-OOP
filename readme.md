@@ -10,3 +10,9 @@ We will cover OOP in different languages like
 In this master branch we will code in java languages so install JDK on your system for this branch code. 
 
 #### Note: You must have to know the basics java languages fundamentals.
+
+## Roadmap Of OOP in Java
+
+We Will Cover Some Basics Topics of OOP in Java like
+- Class, Object, Methods & Constructors
+- Inheritance
