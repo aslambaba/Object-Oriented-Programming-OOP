@@ -19,3 +19,4 @@ We Will Cover Some Basics Topics of OOP in Java like
 - Polymorphism (Method Overloading, Method Overriding)
 - Abstraction (Abstract Classes and Method)
 - Interfaces of Abstraction
+- Encapsulation
